@@ -3,6 +3,7 @@
 <h1 align="center">DeviQA - Your QA Partner</h1>
 
 <p align="center">We provide best-in-class quality assurance services to companies of all sizes.</p>
+<p align="center"><a href="https://www.deviqa.com/contact-us?from=github"><img alt="contact us" src="https://github.com/DeviQA/.github/assets/59980168/da143c0b-fc96-4236-befa-3b556e73f9b9" height="40"></a></p>
 
 ## What is DeviQA?
 | Years on the market 	| Software QA engineers 	| Locations 	| Integrations into an existing development & testing process 	| Clients over the globe 	| Projects tested from scratch 	|
