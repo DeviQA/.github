@@ -8,7 +8,7 @@
 ## What is DeviQA?
 | Years on the market 	| Software QA engineers 	| Locations 	| Integrations into an existing development & testing process 	| Clients over the globe 	| Projects tested from scratch 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Since 2010  | 200 + 	| 6 	| 200 + 	| 300 + 	| 300 + 	|
+| Since 2010  | 250 + 	| 6 	| 200 + 	| 300 + 	| 300 + 	|
 
 We will enhance your control over the product lifecycle, offer insights into the development process, and provide accurate information on product quality through our QA services. 
 
