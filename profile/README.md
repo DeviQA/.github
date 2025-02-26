@@ -8,7 +8,7 @@
 ## What is DeviQA?
 | Years on the market 	| Software QA engineers 	| Locations 	| Integrations into an existing development & testing process 	| Clients over the globe 	| Projects tested from scratch 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Since 2010  | 250 + 	| 6 	| 200 + 	| 300 + 	| 300 + 	|
+| Since 2010  | 250 + 	| 6 	| 250 + 	| 300 + 	| 300 + 	|
 
 We will enhance your control over the product lifecycle, offer insights into the development process, and provide accurate information on product quality through our QA services. 
 
@@ -24,6 +24,219 @@ We will enhance your control over the product lifecycle, offer insights into the
 ## Schedule a demo
 
 Let's discuss your testing requirements and how DeviQA can assist you in preventing bugs from reaching production without the long waits for QA. [Talk to us](https://www.deviqa.com/contact-us) here.
+
+## The scope of our testing expertise
+
+We offer comprehensive QA software testing services to guarantee outstanding quality at every stage of your software development.
+
+
+<table>
+  <tr>
+   <td>By platforms
+   </td>
+   <td>By testing approach
+   </td>
+   <td>By testing levels
+   </td>
+   <td>By testing types
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://www.deviqa.com/services/web-application-testing-services/">Web testing </a>
+   </td>
+   <td><a href="https://www.deviqa.com/services/automation-testing-services/">Automated testing</a>
+   </td>
+   <td><a href="https://www.deviqa.com/services/integration-testing-services/">Integration testing</a>
+   </td>
+   <td><a href="https://www.deviqa.com/services/functional-testing-services/">Functional testing</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://www.deviqa.com/services/mobile-app-testing-services/">Mobile testing</a>
+   </td>
+   <td><a href="https://www.deviqa.com/services/manual-testing-services/">Manual testing</a>
+   </td>
+   <td><a href="https://www.deviqa.com/services/user-acceptance-testing-services/">User acceptance testing</a>
+   </td>
+   <td><a href="https://www.deviqa.com/services/automated-compatibility-testing-services/">Compatibility testing</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://www.deviqa.com/services/iot-testing-services/">IoT testing</a>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td><a href="https://www.deviqa.com/services/software-performance-testing/">Performance testing</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://www.deviqa.com/services/cloud-testing-services/">Cloud testing</a>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td><a href="https://www.deviqa.com/industries/cybersecurity-testing-services/">Security testing</a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td><a href="https://www.deviqa.com/services/localization-testing-services/">Localization testing</a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td><a href="https://www.deviqa.com/services/regression-testing-services/">Regression testing</a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td><a href="https://www.deviqa.com/services/accessibility-testing-services/">Accessibility testing</a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td><a href="https://www.deviqa.com/services/load-and-stress-testing-services/">Load and stress testing</a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td><a href="https://www.deviqa.com/services/penetration-testing-services/">Penetration testing</a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td><a href="https://www.deviqa.com/services/ui-ux-testing-services/">UI/UX testing</a>
+   </td>
+  </tr>
+</table>
+
+
+
+## And we have expertise in your domain 
+
+Having successfully completed over 500 projects, we have gained extensive expertise across diverse industries and audience expectations. Our established best practices allow us to swiftly identify issues related to software performance, security, usability, and more.
+
+
+<table>
+  <tr>
+   <td>Industries
+   </td>
+   <td>Systems & platforms
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://www.deviqa.com/industries/healthcare-testing-services/">Healthcare</a>
+   </td>
+   <td><a href="https://www.deviqa.com/services/erp-testing-services/">ERP</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://www.deviqa.com/industries/hipaa-compliance-testing-services/">HIPPA compliance</a>
+   </td>
+   <td><a href="https://www.deviqa.com/industries/crm-testing-services/">CRM</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://www.deviqa.com/industries/fintech-banking-testing-services/">FinTech & banking</a>
+   </td>
+   <td><a href="https://www.deviqa.com/services/sap-testing-services/">SAP</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://www.deviqa.com/industries/e-commerce-testing-services/">eCommerce</a>
+   </td>
+   <td><a href="https://www.deviqa.com/industries/cad-application-testing-services/">CAD</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://www.deviqa.com/industries/media-and-entertainment-testing-services/">Media & entertainment</a>
+   </td>
+   <td><a href="https://www.deviqa.com/services/api-testing-services/">API</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://www.deviqa.com/industries/travel-testing-services/">Travel</a>
+   </td>
+   <td><a href="https://www.deviqa.com/services/bi-testing-services/">BI</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://www.deviqa.com/industries/adtech-software-testing-services/">AdTech</a>
+   </td>
+   <td><a href="https://www.deviqa.com/services/ai-testing-services/">AI</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://www.deviqa.com/industries/manufacturing-software-testing-services/">Manufacturing</a>
+   </td>
+   <td><a href="https://www.deviqa.com/industries/blockchain-testing-services/">Blockchain</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://www.deviqa.com/industries/real-estate-software-testing-services/">Real estate</a>
+   </td>
+   <td><a href="https://www.deviqa.com/services/automation-testing-for-microservices/">Microservices</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://www.deviqa.com/industries/retail-software-testing-services/">Retail</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://www.deviqa.com/industries/qa-services-for-martech-testing-services/">MarTech</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://www.deviqa.com/industries/software-testing-for-logistics-transportation-testing-services/">Logistics</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://www.deviqa.com/industries/education-software-testing-services/">eLearning</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
 
 ## How we work
 
@@ -50,6 +263,9 @@ Let's discuss your testing requirements and how DeviQA can assist you in prevent
 - [Managed QA Services](https://www.deviqa.com/services/managed-testing-services/)
 - [Software Testing Outsourcing](https://www.deviqa.com/services/qa-outsourcing/)
 - [QA Staff Augmentation](https://www.deviqa.com/services/software-testers-for-hire/)
+- [QA consulting](https://www.deviqa.com/services/quality-assurance-consulting-services/)
+- [QA as a Service](https://www.deviqa.com/services/software-testing-as-a-service/)
+
 
 
 
